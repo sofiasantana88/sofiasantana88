@@ -6,7 +6,9 @@ My journey **blends data, creativity, and storytelling**. From helping local non
 
 I’m deeply motivated by learning, innovation, and human connection. I speak Spanish, English, and French, and I believe that effective data storytelling is universal, connecting cultures, industries, and people. I want to turn data into stories, and stories into change. When I'm not analyzing data, you can find me reading or writing new ideas, playing video games, editing short videos, and volunteering and supportive communities!
 
+
+
 ## **Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=pandas,r,py,aws,powerbi,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,aws,visualstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=sqlitel,progresql,sql-server)](https://skillicons.dev)
