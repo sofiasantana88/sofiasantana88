@@ -10,4 +10,4 @@ I’m deeply motivated by learning, innovation, and human connection. I speak Sp
 
 ## **Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,visualstudio,sqlitel,progresql,sql-server)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,r,py,visualstudio,sq,progresql,sql-server)](https://skillicons.dev)
