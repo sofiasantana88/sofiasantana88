@@ -1,6 +1,6 @@
 # Hello Everyone! I'm Sofia Santana
 
-I’m an aspiring Data Engineer passionate about transforming complex data into meaningful insights. Originally from Mexico, I’m currently pursuing my **Bachelor of Applied Science in Data Management & Analysis** at Bellevue College — with a concentration in **Data Engineering**.
+I’m an aspiring Data Engineer passionate about transforming complex data into meaningful insights. Originally from Mexico, I’m currently pursuing my **Bachelor of Applied Science in Data Management & Analysis** at Bellevue College with a concentration in **Data Engineering**.
 
 My journey blends **data, creativity, and storytelling**. I’ve worked on building end-to-end data pipelines, ELT/ETL workflows, analytics projects, and automation tools using Python, SQL, and cloud platforms. From supporting local nonprofits with data-driven decision-making to developing portfolio projects in data engineering and analytics, I enjoy turning raw data into clarity, structure, and impact.
 
